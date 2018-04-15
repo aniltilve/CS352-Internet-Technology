@@ -1,0 +1,3 @@
+cmd line 
+shell scripting
+writing sql queries 
